@@ -62,3 +62,5 @@ vim.opt.swapfile = false
 vim.opt.scrolloff = 8
 
 vim.opt.colorcolumn = ""
+
+--vim.opt.termguicolors = true
